@@ -1,0 +1,14 @@
+#first {
+    background-color: tomato;
+    height: 100px;
+}
+#second {
+    background-color: dodgerblue;
+    height: 100px;
+}
+a {
+    text-decoration: none;
+}
+#logo {
+    width: 120px;
+}
